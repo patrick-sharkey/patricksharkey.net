@@ -27,11 +27,10 @@ BIO_PARAS = [
 ]
 
 FEATURED = [
+    dict(img="assets/ph-nyt.jpg", title="How Charities Fight Crime", sub="Headway, New York Times", url="https://www.nytimes.com/2026/07/15/headway/newsletter-how-charities-fight-crime.html"),
     dict(img="assets/ezra.jpg", title="Why Is Murder Spiking? And Can Cities Address It Without Police?", sub="The Ezra Klein Show, New York Times", url="https://www.nytimes.com/2021/11/23/opinion/ezra-klein-podcast-patrick-sharkey.html"),
     dict(img="assets/hayes.jpg", title="A More Violent America", sub="Why Is This Happening? with Chris Hayes", url="https://podcasts.apple.com/us/podcast/a-more-violent-america-with-patrick-sharkey/id1382983397?i=1000522131955"),
     dict(img="assets/newyorker.jpg", title="The Great Crime Decline", sub="Adam Gopnik reviews Uneasy Peace, The New Yorker", url="https://www.newyorker.com/magazine/2018/02/12/the-great-crime-decline"),
-    dict(img="assets/nyt-butler.jpg", title="Falling Crime Rates Are Good, at a Cost. A Writer Sees Both Sides.", sub="Paul Butler reviews Uneasy Peace, New York Times Book Review", url="https://www.nytimes.com/2018/06/22/books/review/uneasy-peace-patrick-sharkey.html"),
-    dict(img="assets/wsj.jpg", title="An 'Uneasy Peace' and the Search for Durable Cities", sub="Edward Glaeser reviews Uneasy Peace, Wall Street Journal", url="https://manhattan.institute/article/an-uneasy-peace-and-the-search-for-durable-cities"),
     dict(img="assets/nature.jpg", title="Computational Approaches and the Future of Urban Crime Research", sub="Nature", url="https://doi.org/10.1038/s41586-026-10622-4"),
     dict(img="assets/nyt-homebodies.jpg", title="A Nation of Homebodies", sub="The Upshot, New York Times", url="https://www.nytimes.com/2024/10/05/upshot/americans-homebodies-alone-census.html"),
     dict(img="assets/nyt-gun.jpg", title="A Drop in American Gun Violence", sub="The Morning, New York Times", url="https://www.nytimes.com/2023/11/01/briefing/gun-violence.html"),
