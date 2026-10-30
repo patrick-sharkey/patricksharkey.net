@@ -27,7 +27,7 @@ BIO_PARAS = [
 ]
 
 FEATURED = [
-    dict(img="assets/ph-nyt.jpg", title="How Charities Fight Crime", sub="Headway, New York Times", url="https://www.nytimes.com/2026/07/15/headway/newsletter-how-charities-fight-crime.html"),
+    dict(img="assets/nyt-charities.jpg", title="How Charities Fight Crime", sub="Headway, New York Times", url="https://www.nytimes.com/2026/07/15/headway/newsletter-how-charities-fight-crime.html"),
     dict(img="assets/ezra.jpg", title="Why Is Murder Spiking? And Can Cities Address It Without Police?", sub="The Ezra Klein Show, New York Times", url="https://www.nytimes.com/2021/11/23/opinion/ezra-klein-podcast-patrick-sharkey.html"),
     dict(img="assets/hayes.jpg", title="A More Violent America", sub="Why Is This Happening? with Chris Hayes", url="https://podcasts.apple.com/us/podcast/a-more-violent-america-with-patrick-sharkey/id1382983397?i=1000522131955"),
     dict(img="assets/newyorker.jpg", title="The Great Crime Decline", sub="Adam Gopnik reviews Uneasy Peace, The New Yorker", url="https://www.newyorker.com/magazine/2018/02/12/the-great-crime-decline"),
