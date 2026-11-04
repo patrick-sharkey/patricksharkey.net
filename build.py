@@ -33,7 +33,7 @@ FEATURED = [
     dict(img="assets/newyorker.jpg", title="The Great Crime Decline", sub="Adam Gopnik reviews Uneasy Peace, The New Yorker", url="https://www.newyorker.com/magazine/2018/02/12/the-great-crime-decline"),
     dict(img="assets/nature.jpg", title="Computational Approaches and the Future of Urban Crime Research", sub="Nature", url="https://doi.org/10.1038/s41586-026-10622-4"),
     dict(img="assets/nyt-homebodies.jpg", title="A Nation of Homebodies", sub="The Upshot, New York Times", url="https://www.nytimes.com/2024/10/05/upshot/americans-homebodies-alone-census.html"),
-    dict(img="assets/nyt-gun.jpg", title="A Drop in American Gun Violence", sub="The Morning, New York Times", url="https://www.nytimes.com/2023/11/01/briefing/gun-violence.html"),
+    dict(img="assets/atlantic.jpg", title="The Socializing That's Replacing Friend Time", sub="The Atlantic", url="https://www.theatlantic.com/family/2026/11/family-time-versus-friend-time/689270/"),
     dict(img="assets/nyt-lessons.jpg", title="Two Lessons of the Urban Crime Decline", sub="New York Times", url="https://www.nytimes.com/2018/01/13/opinion/sunday/two-lessons-of-the-urban-crime-decline.html"),
     dict(img="assets/wapo.jpg", title="Why Do We Need the Police?", sub="Washington Post", url="https://www.washingtonpost.com/outlook/2020/06/12/defund-police-violent-crime/"),
     dict(img="assets/prospect.jpg", title="The World's Top 50 Thinkers", sub="Prospect Magazine", url="https://www.prospectmagazine.co.uk/politics/37755/the-worlds-top-50-thinkers-2021"),
