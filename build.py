@@ -37,6 +37,11 @@ FEATURED = [
     dict(img="assets/nyt-lessons.jpg", title="Two Lessons of the Urban Crime Decline", sub="New York Times", url="https://www.nytimes.com/2018/01/13/opinion/sunday/two-lessons-of-the-urban-crime-decline.html"),
     dict(img="assets/wapo.jpg", title="Why Do We Need the Police?", sub="Washington Post", url="https://www.washingtonpost.com/outlook/2020/06/12/defund-police-violent-crime/"),
     dict(img="assets/prospect.jpg", title="The World's Top 50 Thinkers", sub="Prospect Magazine", url="https://www.prospectmagazine.co.uk/politics/37755/the-worlds-top-50-thinkers-2021"),
+    dict(img="assets/atlantic-antisocial.jpg", title="The Anti-Social Century", sub="The Atlantic", url="https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/"),
+    dict(img="assets/cbs-home.jpg", title="Americans have been spending more time at home since 2003, study finds", sub="CBS News", url="https://www.yahoo.com/news/americans-spending-more-time-home-002103488.html"),
+    dict(img="assets/harpers-crime.jpg", title="Crime and Punishment: Can American policing be fixed?", sub="Harper's Magazine", url="https://harpers.org/archive/2024/04/crime-and-punishment-5/"),
+    dict(img="assets/nyrb.jpg", title="How Can We Stop Gun Violence?", sub="The New York Review of Books", url="https://www.nybooks.com/articles/2021/06/10/how-can-we-stop-gun-violence/"),
+    dict(img="assets/atlantic-decline-over.jpg", title="Why America's Great Crime Decline Is Over", sub="The Atlantic", url="https://www.theatlantic.com/ideas/archive/2021/03/is-americas-great-crime-decline-over/618381/"),
 ]
 
 BOOKS = [
